@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Grundkurs Programmieren/Grundkurs Programmieren.iml" filepath="$PROJECT_DIR$/Grundkurs Programmieren/Grundkurs Programmieren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wichtige Klassen/Wichtige Klassen.iml" filepath="$PROJECT_DIR$/Wichtige Klassen/Wichtige Klassen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace.iml" filepath="$PROJECT_DIR$/workspace.iml" />
+    </modules>
+  </component>
+</project>
